@@ -1,20 +1,21 @@
 ---
 # Display name
-title: Oswaldo Baffa
+title: Débora Souza
+
 
 # Full name (for SEO)
-first_name: Oswaldo
-last_name: Baffa
+first_name: Débora
+last_name: Souza
 
 # Username (this should match the folder name)
 authors:
-  - baffa
+  - debora
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Full Professor
+role: Undergraduate Student  
 
 # Organizations/Affiliations
 organizations:
@@ -22,23 +23,19 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include on interdisciplinary projects at the interface of the areas of biophysics and medical physics. Electron Spin Resonance (ESR) Dosimetry and Dating, Biomagnetism and Magnetic Resonance Imaging (MRI).
+bio: I'm an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). Her research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
 
 interests:
-  - Biomagnetism 
-  - Electron Spin Resonance Dosimetry and Dating
+  - Transcranial Magnetic Stimulation 
+  - Biomagnetrism
+  - Optical Pumping Magnetometers
 
 education:
   courses:
-    - course: Doctoral in Applied Physics 
+
+    - course: BSc in Medical Physics
       institution: University of São Paulo
-      year: 1984
-    - course: Master in Applied Physics 
-      institution: University of São Paulo
-      year: 1980
-    - course: BSc in Physics
-      institution: University of São Paulo
-      year: 1976
+      year: 2021 - 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,10 +44,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:baffa@usp.br'
+    link: 'mailto: debora.martins@usp.br'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=MfmrtAIAAAAJ&hl=en
+    link: http://lattes.cnpq.br/9334346982207455
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Grad Students
 ---
+Débora Martins de Souza is an undergraduate student in Medical Physics and is engaged in a Scientific Initiation program at the University of São Paulo (USP). Her research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
 
-Baffa is a full professor at the University of São Paulo. His research interests include interdisciplinary projects at the interface of the areas of biophysics and medical physics. Electron Spin Resonance (ESR) Dosimetry and Dating, Biomagnetism and Magnetic Resonance Imaging (MRI).

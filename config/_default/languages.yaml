@@ -17,18 +17,15 @@ pt:
     description: Site description in pt...
   menu:
     main:
-      - name: Tour
-        url: 'tour'
-        weight: 10
-      - name: Notícias
+      - name: Pesquisas
         url: 'post'
         weight: 20
+      - name: Softwares
+        url: 'event'
+        weight: 40
       - name: Membros
         url: 'people'
         weight: 30
-      - name: Eventos
-        url: 'event'
-        weight: 40
       - name: Publicações
         url: 'publication'
         weight: 50

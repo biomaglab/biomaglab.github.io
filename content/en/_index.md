@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Biomag Lab
       image:
         filename: departamento_fisica.jpg
       text: |
@@ -19,7 +18,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Researches
       subtitle:
       text:
       count: 5

@@ -15,8 +15,9 @@ sections:
           - Researchers
           - Grad Students
           - Administration
-          - Visitors
-          - Alumni
+          - Collaborators
+          - Technicians
+          - High School Students 
       sort_by: Params.last_name
       sort_ascending: true
     design:
