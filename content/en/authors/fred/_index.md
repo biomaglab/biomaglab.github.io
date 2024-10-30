@@ -26,9 +26,8 @@ bio:  I’m an undergraduate student in Medical Physics and am engaged in a Scie
 particularly on the study of electret dosimetry applications in usual microphones.
 
 interests:
-  - Transcranial Magnetic Stimulation 
+  - Dosimetry
   - Biomagnetism
-  - Optical Pumping Magnetometers
 
 education:
   courses:
