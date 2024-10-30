@@ -28,6 +28,7 @@ particularly on the study of electret dosimetry applications in usual microphone
 interests:
   - Dosimetry
   - Biomagnetism
+  oiiiiiiii
 
 education:
   courses:
