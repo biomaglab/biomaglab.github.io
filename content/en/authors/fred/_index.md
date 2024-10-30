@@ -1,16 +1,15 @@
 ---
 # Display name
-title: Débora Souza
-
+title: Frederico Possato
 
 # Full name (for SEO)
-first_name: Débora
-last_name: Souza
+first_name: Frederico
+last_name: Tagliaferro
 
 # Username (this should match the folder name)
 authors:
-  - debora
-
+  - fred
+    
 # Is this the primary user of the site?
 superuser: false
 
@@ -23,7 +22,7 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). My research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
+bio:  I’m an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). My research and projects focus on the areas of dosimetry, particularly on the study of electret dosimetry applications in usual microphones.
 
 interests:
   - Transcranial Magnetic Stimulation 
@@ -44,10 +43,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: debora.martins@usp.br'
+    link: 'mailto: frederico.possato@usp.br'
   - icon: google-scholar
     icon_pack: ai
-    link: http://lattes.cnpq.br/9334346982207455
+    link: link: http://lattes.cnpq.br/5364943462977087
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,5 +62,6 @@ email: ''
 user_groups:
   - Undergraduation Students
 ---
-Débora M. de Souza is an undergraduate student in Medical Physics and is engaged in a Scientific Initiation program at the University of São Paulo (USP). Her research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
+Frederico Possato Tagliaferro is an undergraduate student in Medical Physics and is engaged in a Scientific Initiation program at the University of São Paulo (USP). His research and projects focus on the areas of dosimetry, particularly on the study of electret dosimetry applications in usual microphones.
+
 
