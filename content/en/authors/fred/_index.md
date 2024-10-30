@@ -22,7 +22,8 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I’m an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). My research and projects focus on the areas of dosimetry, particularly on the study of electret dosimetry applications in usual microphones.
+bio:  I’m an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). My research and projects focus on the areas of dosimetry, 
+particularly on the study of electret dosimetry applications in usual microphones.
 
 interests:
   - Transcranial Magnetic Stimulation 
@@ -62,6 +63,8 @@ email: ''
 user_groups:
   - Undergraduation Students
 ---
-Frederico Possato Tagliaferro is an undergraduate student in Medical Physics and is engaged in a Scientific Initiation program at the University of São Paulo (USP). His research and projects focus on the areas of dosimetry, particularly on the study of electret dosimetry applications in usual microphones.
+Frederico Possato Tagliaferro is an undergraduate student in Medical Physics and is engaged in a Scientific Initiation
+program at the University of São Paulo (USP). His research and projects focus on the areas of dosimetry, particularly on
+the study of electret dosimetry applications in usual microphones.
 
 
