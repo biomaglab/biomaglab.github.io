@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Débora Souza
+title: Joaquim Penedo
 
 
 # Full name (for SEO)
-first_name: Débora
-last_name: Souza
+first_name: Joaquim
+last_name: Ferreira
 
 # Username (this should match the folder name)
 authors:
-  - debora
+  - joca
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,19 +23,18 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). My research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
+bio:  I’m an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). My research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the transcranial magnetic stimulation focused on the characterization of a eletric field by the coils used on this technique. Scientific Initiation program at the University of São Paulo (USP). My research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
 
 interests:
   - Transcranial Magnetic Stimulation 
   - Biomagnetism
-  - Optical Pumping Magnetometers
 
 education:
   courses:
 
     - course: Undergraduate in Medical Physics
       institution: University of São Paulo
-      year: 2025
+      year: 2027
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,10 +43,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: debora.martins@usp.br'
+    link: 'mailto: joaquimpenedoba@usp.br'
   - icon: google-scholar
     icon_pack: ai
-    link: http://lattes.cnpq.br/9334346982207455
+    link: http://lattes.cnpq.br/0595886956738227
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,5 +62,5 @@ email: ''
 user_groups:
   - Undergraduation Students
 ---
-Débora M. de Souza is an undergraduate student in Medical Physics and is engaged in a Scientific Initiation program at the University of São Paulo (USP). Her research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the Adult and Fetal Magnetocardiography System based on Optical Pumping Magnetometers.
+Joaquim Castro Penedo de Albuquerque Ferreira is an undergraduate student in Medical Physics and is engaged in a Scientific Initiation program at the University of São Paulo (USP). His research and projects focus on the areas of biomagnetism, with a particular emphasis on the study of the transcranial magnetic stimulation focused on the characterization of a eletric field by the coils used on this technique.
 
