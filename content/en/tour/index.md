@@ -16,6 +16,7 @@ sections:
             filename: group.jpg
             filters:
               brightness: 0.7
+    
           position: right
           color: '#666'
       - title: Lunch & Learn ☕️
