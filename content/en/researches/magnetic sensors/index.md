@@ -31,7 +31,7 @@ Magnetic sensors are the methods used, by which biomagnetism occurs. Within the 
 
 <!--more-->
 
-### **SQUID (Superconducting Quantum Interference Device)**
+### SQUID (Superconducting Quantum Interference Device)
 
 
 It is a **highly sensitive** type of magnetometer that can detect minute changes in magnetic fields, making it a tool in many areas of science and technology.
@@ -40,7 +40,7 @@ It works based on the Josephson effect that is a physical perspective that is ma
 
 Inside the Squid, this magnetic current will increase until it reaches its peak, with the increase in the magnetic field, and will subsequently decrease to its minimum, with the decrease in the field. This process will be repeated periodically.
 
-### **OPM (Optically Pumped Magnetometers)**
+### OPM (Optically Pumped Magnetometers)
 
 
 Optical Pumping Magnetometers are a **new technology** that has great capacity to carry out magnetic measurements of signals from our body. In general, OPM is being used in research, to determine whether it is the most viable method to be used as a basis for Magnetocardiography diagnoses, both in people and in fetuses. 
@@ -51,7 +51,7 @@ Furthermore, since magnetic shields are necessary to isolate low-intensity cardi
  
 In summary, OPMs work as follows: a laser diode to generate resonant light, a clear glass alkali vapor cell and a photodetector. The resonant light polarizes the atoms in the gas. In a near-zero magnetic field environment, if a second laser beam is applied to the cell, it will pass through the vapor cell and reach the photodetector with maximum intensity. In the presence of a magnetic field, however, the net polarization will rotate through a small angle. Then, the light from the laser beam will be partially absorbed by the atoms, and a change in the intensity of the transmitted light is measured by a photodetector (Tierney et al., 2019)
 
-## **MCG (Magnetocardiography)**
+## MCG (Magnetocardiography)
 
 It is a non-invasive technique that records the magnetic fields that are produced from the electrical current of the heart, *using magnetometers*. The magnetic field produced by the heart is extremely weak (about 10-10 T), being much lower than the intensity of the Earth's magnetic field (10-5 T) and the level of magnetic noise in urban areas (10-7 T). Therefore, it is very difficult to measure the cardiac magnetic field.
 
