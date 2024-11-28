@@ -1,5 +1,5 @@
 ---
-title: Electron paramagnetic resonance (EPR)
+title: Electron Paramagnetic Resonance (EPR)
 date: 2024-03-07
 image:
   focal_point: 'top'
