@@ -31,7 +31,7 @@ Magnetic sensors are the methods used, by which biomagnetism occurs. Within the 
 
 <!--more-->
 
-### SQUID (Superconducting Quantum Interference Device)
+## SQUID (Superconducting Quantum Interference Device)
 
 
 It is a **highly sensitive** type of magnetometer that can detect minute changes in magnetic fields, making it a tool in many areas of science and technology.
@@ -40,7 +40,7 @@ It works based on the Josephson effect that is a physical perspective that is ma
 
 Inside the Squid, this magnetic current will increase until it reaches its peak, with the increase in the magnetic field, and will subsequently decrease to its minimum, with the decrease in the field. This process will be repeated periodically.
 
-### OPM (Optically Pumped Magnetometers)
+## OPM (Optically Pumped Magnetometers)
 
 
 Optical Pumping Magnetometers are a **new technology** that has great capacity to carry out magnetic measurements of signals from our body. In general, OPM is being used in research, to determine whether it is the most viable method to be used as a basis for Magnetocardiography diagnoses, both in people and in fetuses. 
