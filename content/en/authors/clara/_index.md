@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Pedro Cadamuro
+title: Clara Alves
 
 
 # Full name (for SEO)
-first_name: Pedro
-last_name: Cadamuro
+first_name: Clara
+last_name: Coelho
 
 # Username (this should match the folder name)
 authors:
-  - pedro
+  - clara
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,17 +23,19 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). 
+bio:  I have a degree in Biomedical Informatics and I’m now a Medical Physics student at the University of São Paulo (USP). I have participated in projects in the field of nuclear medicine and I am currently engaged in a research initiation project aimed at developing a dashboard that updates real-time information related to the control of Transcranial Magnetic Stimulation (TMS).
 
 interests:
- - Electron Spin Resonance
+ - Programming
+ - Biomagnetism
 
 education:
   courses:
 
     - course: Undergraduate in Medical Physics
       institution: University of São Paulo
-      year: 2024
+      year: 2028
+  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,7 +47,7 @@ social:
     link: 'mailto: '
   - icon: google-scholar
     icon_pack: ai
-    link: http://lattes.cnpq.br/1174209265189258
+    link: http://lattes.cnpq.br/6589605346772464
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -61,5 +63,6 @@ email: ''
 user_groups:
   - Undergraduation Students
 ---
-Pedro Cadamuro is an undergraduate student in Medical Physics engaged in a Scientific Initiation program at the University of São Paulo (USP). His research and project focus on dosimetry, particularly on the study of Electronic Spin Resonance dosimetry applications in quality control in Radiotherapy and blood irradiation.
+Clara Alves Coelho has a degree in Biomedical Informatics and she is now a Medical Physics student at the University of São Paulo (USP). She has participated in projects in the field of nuclear medicine and is currently engaged in a research initiation project aimed at developing a dashboard that updates real-time information related to the control of Transcranial Magnetic Stimulation (TMS).
+
 
