@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Thais Marchetti
+title: Thais Marchetti 2
 
 
 # Full name (for SEO)
