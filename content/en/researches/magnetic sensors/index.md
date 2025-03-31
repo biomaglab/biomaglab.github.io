@@ -31,27 +31,6 @@ Magnetic sensors are the methods used, by which biomagnetism occurs. Within the 
 
 <!--more-->
 
-## SQUID (Superconducting Quantum Interference Device)
-
-
-It is a **highly sensitive** type of magnetometer that can detect minute changes in magnetic fields, making it a tool in many areas of science and technology.
-
-It works based on the _Josephson Effect_ that is a physical perspective that is manifested by the appearance of an electrical current that flows through two weakly interconnected superconductors, separated only by a very thin insulating barrier, there is also the quantization of flow in a superconducting ring and the Meissner effect, which causes the magnetic field inside the superconducting material is zero.
-
-Inside the Squid, this magnetic current will increase until it reaches its peak, with the increase in the magnetic field, and will subsequently decrease to its minimum, with the decrease in the field. This process will be repeated periodically.
-OIII
-
-## OPM (Optically Pumped Magnetometers)
-
-
-Optical Pumping Magnetometers are a **new technology** that has great capacity to carry out magnetic measurements of signals from our body. In general, OPM is being used in research, to determine whether it is the most viable method to be used as a basis for Magnetocardiography diagnoses, both in people and in fetuses. 
-
-For a long time, Superconducting Quantum Interference Devices (SQUIDs) have been the main sensors in biomagnetic measurements, due to their high bandwidth, sensitivity and dynamic range from nanoTesla (nT) to femtoTesla (fT). However, the use of SQUIDs is limited by the necessary cryogenic cooling with liquid helium, due to cost, operation logistics and fixed geometry of the sensors (Seymour et al., 2022). The development of Optical Pumped Magnetometers (OPMs) changed this situation, offering the same sensitivity as SQUIDs, but operating at room temperature, eliminating the need for cryogenic cooling (Kominis et al., 2003; Shah & Wakai, 2013).
-
-Furthermore, since magnetic shields are necessary to isolate low-intensity cardiac magnetic fields from interference from other magnetic sources, the development of OPMs has allowed the use of small-sized magnetic shields, with dimensions slightly larger than the volume of the body. human, and therefore, more economically accessible.
- 
-In summary, OPMs work as follows: **a laser diode to generate resonant light, a clear glass alkali vapor cell and a photodetector**. The resonant light polarizes the atoms in the gas. In a near-zero magnetic field environment, if a second laser beam is applied to the cell, it will pass through the vapor cell and reach the photodetector with maximum intensity. In the presence of a magnetic field, however, the net polarization will rotate through a small angle. Then, the light from the laser beam will be partially absorbed by the atoms, and a change in the intensity of the transmitted light is measured by a photodetector (Tierney et al., 2019)
-
 ## MCG (Magnetocardiography)
 
 It is a _non-invasive technique_ that records the magnetic fields that are produced from the electrical current of the heart, *using magnetometers*. The magnetic field produced by the heart is extremely weak (about 10-10 T), being much lower than the intensity of the Earth's magnetic field (10-5 T) and the level of magnetic noise in urban areas (10-7 T). Therefore, it is very difficult to measure the cardiac magnetic field.
@@ -63,8 +42,6 @@ MCG has been used in our *group's research* for studies, with adult patients of 
 
 Magnetocardiography is a safe method for diagnosing cardiac arrhythmias in adults and fetuses. However, due to the high cost and complexity of SQUID equipment, its application has been limited. Recently, Optical Pumping Magnetometers have emerged as a more affordable and simplified alternative. The development of these devices made it possible to install the first OPM system inside a cylindrical shield.de mu-metal, in the Biomagnetism laboratory at the University of São Paulo in Ribeirão Preto. This marks a significant advance in Brazil and Latin America. The goal is to make GCM more accessible in hospitals and clinics, providing more accurate diagnoses and early treatments.
 
+## MGG (Magnetogastrography)
 
-
-
-
-
+Magnetogastrography (MGG) is a promising technique for studying gastric motility, offering a non-invasive and more accurate alternative to traditional methods such as manometry and electrogastrography. However, MGG is still not widely used due to the high cost and complexity of the required equipment. With the recent development of optically pumped magnetometers (OPMs), there has been a significant reduction in the cost and complexity of biomagnetic systems, making MGG more accessible. The installation of the first OPM system in a shielded chamber in Brazil, at the University of São Paulo, provides a unique opportunity to explore this technology and its application in the study of gastric motility. This project aims to develop and validate the MGG technique using OPMs, with the goal of improving the diagnosis of gastric disorders in a non-invasive manner. The implementation of this technology could lead to faster, more accurate, and more comfortable diagnoses, as well as pave the way for its adoption in hospitals and clinics, benefiting patients with gastrointestinal dysfunctions.
