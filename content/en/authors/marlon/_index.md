@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Pedro Cadamuro
+title: Marlon Gomes
 
 
 # Full name (for SEO)
-first_name: Pedro
-last_name: Cadamuro
+first_name: Marlon 
+last_name: Calixto
 
 # Username (this should match the folder name)
 authors:
-  - pedro
+  - marlon
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,7 +23,7 @@ organizations:
     url: 'https://www5.usp.br/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an undergraduate student in Medical Physics and am engaged in a Scientific Initiation program at the University of São Paulo (USP). 
+bio:  I’m an undergraduate student in Medical Physics and a participant in a Scientific Initiation program at the University of São Paulo (USP). My research focuses on the field of biomagnetism, with a particular emphasis on the Magnetoencephalography (MEG) system and the application of optically pumped magnetometers (OPMs).
 
 interests:
  - Electron Spin Resonance
@@ -33,7 +33,7 @@ education:
 
     - course: Undergraduate in Medical Physics
       institution: University of São Paulo
-      year: 2024
+      year: 2027
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,5 +61,4 @@ email: ''
 user_groups:
   - Undergraduation Students
 ---
-Pedro Cadamuro is an undergraduate student in Medical Physics engaged in a Scientific Initiation program at the University of São Paulo (USP). His research and project focus on dosimetry, particularly on the study of Electronic Spin Resonance dosimetry applications in quality control in Radiotherapy and blood irradiation.
-
+Marlon Gomes Calixto is an undergraduate student in Medical Physics and a participant in a Scientific Initiation program at the University of São Paulo (USP). His research focuses on the field of biomagnetism, with a particular emphasis on the Magnetoencephalography (MEG) system and the application of optically pumped magnetometers (OPMs). His work aims to advance the understanding of these sensors and the MEG technique, as well as to conduct exploratory measurements in adult subjects exposed to magnetic stimuli in the lower limbs.
