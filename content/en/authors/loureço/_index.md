@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Lourenço Rocha
+title: Lourenço Rocha lori
 
 
 # Full name (for SEO)
 first_name: Lourenço 
-last_name: Rocha
+last_name: Rocha 
 
 # Username (this should match the folder name)
 authors:
