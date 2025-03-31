@@ -5,7 +5,7 @@ title: Thais Marchetti
 
 # Full name (for SEO)
 first_name: Thais
-last_name: Marchetti
+last_name: Cunha
 
 # Username (this should match the folder name)
 authors:
