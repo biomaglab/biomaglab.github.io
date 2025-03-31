@@ -39,6 +39,7 @@ It is a **highly sensitive** type of magnetometer that can detect minute changes
 It works based on the _Josephson Effect_ that is a physical perspective that is manifested by the appearance of an electrical current that flows through two weakly interconnected superconductors, separated only by a very thin insulating barrier, there is also the quantization of flow in a superconducting ring and the Meissner effect, which causes the magnetic field inside the superconducting material is zero.
 
 Inside the Squid, this magnetic current will increase until it reaches its peak, with the increase in the magnetic field, and will subsequently decrease to its minimum, with the decrease in the field. This process will be repeated periodically.
+OIII
 
 ## OPM (Optically Pumped Magnetometers)
 
