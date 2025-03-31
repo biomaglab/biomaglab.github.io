@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Thais Marchetti
+title: Thais Marchetti 2
 
 
 # Full name (for SEO)
 first_name: Thais
-last_name: Marchetti
+last_name: Marchetti 
 
 # Username (this should match the folder name)
 authors:
