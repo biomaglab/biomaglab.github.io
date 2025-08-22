@@ -67,7 +67,6 @@ email: ''
 user_groups:
   - Graduation Students
 ---
-She holds a Bachelor's degree in Medical Physics from USP and is currently pursuing a Master's degree in the postgraduate program at FAMB. Her research focuses on the development of a dosimetry system for high-dose electron beams, using the alanine/ESR technique. Her interests include high-dose dosimetry, radiation interaction with matter, and electron beam applications.
-
+Kyssylla Silva holds a Bachelor's degree in Medical Physics from USP and is currently pursuing a Master's degree in the postgraduate program at FAMB. Her research focuses on the development of a dosimetry system for high-dose electron beams, using the alanine/ESR technique. Her interests include high-dose dosimetry, radiation interaction with matter, and electron beam applications.
 
 
