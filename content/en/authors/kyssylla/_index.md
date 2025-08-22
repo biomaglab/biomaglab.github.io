@@ -27,8 +27,8 @@ bio: I hold a Bachelor's degree in Medical Physics from USP and am currently pur
 
 interests:
   - Dosimetry
-  - Radiology
-  - Biomagnetism
+  - Ionizing radiation
+  - Electron Spin Resonance (ESR)
 
 education:
   courses:
